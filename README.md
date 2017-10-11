@@ -1,8 +1,9 @@
 # Program # X
-Name:  
-Cosc 5730 or 4730
+Name:  Katherine Chawla
+Collaboration with: Dustin Rubin
+Cosc 4730
 
-Description:  (how to run the program, phone/emulator screen size, android version ie 7.0)
+Description:  
 
 Anything that doesn't work:
 
